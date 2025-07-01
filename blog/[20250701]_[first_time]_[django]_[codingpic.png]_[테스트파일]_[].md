@@ -4,10 +4,6 @@
 
 * hello world 2
 
-개발자 도구
-윈도우 : Ctrl + Shift + i
-맥북 : Cmd + opt + i
-
 ![코딩 이미지](img/codingpic.png)
 
 ``` python
